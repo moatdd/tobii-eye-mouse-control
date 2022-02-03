@@ -1,0 +1,17 @@
+E:\Projects\UnityGitHub\tobii-eye-mouse-control\TobiiFormApp\bin\Release\Tobii.EyeX.Client.dll
+E:\Projects\UnityGitHub\tobii-eye-mouse-control\TobiiFormApp\bin\Release\TobiiFormApp.exe.config
+E:\Projects\UnityGitHub\tobii-eye-mouse-control\TobiiFormApp\bin\Release\TobiiFormApp.exe
+E:\Projects\UnityGitHub\tobii-eye-mouse-control\TobiiFormApp\bin\Release\TobiiFormApp.pdb
+E:\Projects\UnityGitHub\tobii-eye-mouse-control\TobiiFormApp\bin\Release\Gma.System.MouseKeyHook.dll
+E:\Projects\UnityGitHub\tobii-eye-mouse-control\TobiiFormApp\bin\Release\Tobii.Interaction.Model.dll
+E:\Projects\UnityGitHub\tobii-eye-mouse-control\TobiiFormApp\bin\Release\Tobii.Interaction.Net.dll
+E:\Projects\UnityGitHub\tobii-eye-mouse-control\TobiiFormApp\bin\Release\WindowsInput.dll
+E:\Projects\UnityGitHub\tobii-eye-mouse-control\TobiiFormApp\bin\Release\WindowsInput.xml
+E:\Projects\UnityGitHub\tobii-eye-mouse-control\TobiiFormApp\obj\Release\TobiiFormApp.csprojAssemblyReference.cache
+E:\Projects\UnityGitHub\tobii-eye-mouse-control\TobiiFormApp\obj\Release\TobiiFormApp.Form1.resources
+E:\Projects\UnityGitHub\tobii-eye-mouse-control\TobiiFormApp\obj\Release\TobiiFormApp.Properties.Resources.resources
+E:\Projects\UnityGitHub\tobii-eye-mouse-control\TobiiFormApp\obj\Release\TobiiFormApp.csproj.GenerateResource.cache
+E:\Projects\UnityGitHub\tobii-eye-mouse-control\TobiiFormApp\obj\Release\TobiiFormApp.csproj.CoreCompileInputs.cache
+E:\Projects\UnityGitHub\tobii-eye-mouse-control\TobiiFormApp\obj\Release\TobiiFormApp.csproj.CopyComplete
+E:\Projects\UnityGitHub\tobii-eye-mouse-control\TobiiFormApp\obj\Release\TobiiFormApp.exe
+E:\Projects\UnityGitHub\tobii-eye-mouse-control\TobiiFormApp\obj\Release\TobiiFormApp.pdb
